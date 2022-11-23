@@ -3,9 +3,9 @@
 
 /*Meta Information*/
 
-MODULE LICENSE("GPL");
-MODULE AUTHOR ("Abungo GNU/Linux");
-MODULE DESCRIPTION("A hello world LKM");
+MODULE_LICENSE("GPL");
+MODULE_AUTHOR ("Abungo GNU/Linux");
+MODULE_DESCRIPTION("A hello world LKM");
 
 /*
 This function is called, when the module is loaded into the kernet
